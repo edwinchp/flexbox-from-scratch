@@ -1,0 +1,14 @@
+.contenedor{
+    width: 500px;
+    height: 200px;
+    background: #fff;
+    border: 10px solid #2c3e50;
+    margin: 20px;
+}
+
+.elemento{
+    color: #fff;
+    margin: 5px;
+    background: #e67e22;
+    text-align: center;
+}
